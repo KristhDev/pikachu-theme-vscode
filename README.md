@@ -6,13 +6,13 @@
 
 <p align="center">
     <a aria-label="Latest release" href="https://github.com/KristhDev/pikachu-theme-vscode/releases" target="_blank">
-        <img alt="Latest release" src="https://img.shields.io/github/package-json/v/KristhDev/pikachu-theme-vscode?style=flat-square&color=0366D6&labelColor=49505A" />
+        <img alt="Latest release" src="https://img.shields.io/github/release/KristhDev/pikachu-theme-vscode.svg?style=for-the-badge&logo=github&logoColor=white&colorA=2b303b&colorB=FAD000" />
     </a>
-    <a aria-label="Install from VS Code Marketplace" href="https://marketplace.visualstudio.com/items?itemName=kristhdev.pikachu-theme-vscode" target="_blank">
-        <img alt="Install from VS Code Marketplace" src="https://img.shields.io/badge/vscode-marketplace-25292E?style=flat-square&label=%20&logoColor=BCC3CD&labelColor=49505A&logo=Visual%20Studio%20Code" />
+    <a aria-label="Install from VS Code Marketplace" href="https://marketplace.visualstudio.com/items?itemName=KristhDev.kristhdev-pikachu-theme-vscode&ssr=false#overview" target="_blank">
+        <img alt="Install from VS Code Marketplace" src="https://img.shields.io/badge/vscode-25292E?style=for-the-badge&label=%20&logoColor=BCC3CD&labelColor=49505A&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSIxNDRweCIgaGVpZ2h0PSIxNDRweCI+PHBhdGggZmlsbD0iIzI5YjZmNiIgZD0iTTQ0LDExLjExdjI1Ljc4YzAsMS4yNy0wLjc5LDIuNC0xLjk4LDIuODJsLTguODIsNC4xNEwzNCwzM1YxNUwzMy4yLDQuMTVsOC44Miw0LjE0IEM0My4yMSw4LjcxLDQ0LDkuODQsNDQsMTEuMTF6Ii8+PHBhdGggZmlsbD0iIzAyNzdiZCIgZD0iTTksMzMuODk2TDM0LDE1VjUuMzUzYzAtMS4xOTgtMS40ODItMS43NTgtMi4yNzUtMC44Nkw0LjY1OCwyOS4yMzkgYy0wLjksMC44My0wLjg0OSwyLjI2NywwLjEwNywzLjAzMmMwLDAsMS4zMjQsMS4yMzIsMS44MDMsMS41NzRDNy4zMDQsMzQuMzcsOC4yNzEsMzQuNDMsOSwzMy44OTZ6Ii8+PHBhdGggZmlsbD0iIzAyODhkMSIgZD0iTTksMTQuMTA0TDM0LDMzdjkuNjQ3YzAsMS4xOTgtMS40ODIsMS43NTgtMi4yNzUsMC44Nkw0LjY1OCwxOC43NjEgYy0wLjktMC44My0wLjg0OS0yLjI2NywwLjEwNy0zLjAzMmMwLDAsMS4zMjQtMS4yMzIsMS44MDMtMS41NzRDNy4zMDQsMTMuNjMsOC4yNzEsMTMuNTcsOSwxNC4xMDR6Ii8+PC9zdmc+" />
     </a>
-    <a aria-label="Install from Open VSX" href="https://open-vsx.org/extension/kristhdev/pikachu-theme-vscode" target="_blank">
-        <img alt="Install from Open VSX" src="https://img.shields.io/badge/vscode-open%20vsx-25292E?style=flat-square&label=%20&logoColor=BCC3CD&labelColor=49505A&logo=Eclipse%20IDE" />
+    <a aria-label="Install from Open VSX" href="https://open-vsx.org/extension/KristhDev/kristhdev-pikachu-theme-vscode" target="_blank">
+        <img alt="Install from Open VSX" src="https://img.shields.io/badge/vscode-open%20vsx-25292E?style=for-the-badge&label=%20&logoColor=BCC3CD&labelColor=49505A&logo=Eclipse%20IDE" />
     </a>
 </p>
 </h1>
