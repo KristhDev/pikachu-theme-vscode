@@ -1,21 +1,19 @@
-<h1 align="center">
-    <img src="https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/assets/icon.png" width="128" alt="Logo">
-    <br>
+<h3 align="center">
+    <img src="assets/icon.png" width="128" alt="Logo"><br>
     Pikachu Theme for <a href="https://code.visualstudio.com">VSCode</a>
-    <br>
+</h3>
 
 <p align="center">
-    <a aria-label="Latest release" href="https://github.com/KristhDev/pikachu-theme-vscode/releases" target="_blank">
-        <img alt="Latest release" src="https://img.shields.io/github/v/release/KristhDev/pikachu-theme-vscode?style=for-the-badge&logo=github&logoColor=white&colorA=2b303b&colorB=FAD000" />
+    <a href="https://github.com/KristhDev/pikachu-theme-vscode/releases" target="_blank">
+        <img alt="Latest release" src="https://img.shields.io/github/v/release/KristhDev/pikachu-theme-vscode?style=for-the-badge&logo=github&logoColor=white&colorA=2b303b&colorB=FAD000">
     </a>
-    <a aria-label="Install from VS Code Marketplace" href="https://marketplace.visualstudio.com/items?itemName=KristhDev.kristhdev-pikachu-theme-vscode&ssr=false#overview" target="_blank">
-        <img alt="Install from VS Code Marketplace" src="https://img.shields.io/badge/vscode-25292E?style=for-the-badge&label=%20&logoColor=BCC3CD&labelColor=49505A&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSIxNDRweCIgaGVpZ2h0PSIxNDRweCI+PHBhdGggZmlsbD0iIzI5YjZmNiIgZD0iTTQ0LDExLjExdjI1Ljc4YzAsMS4yNy0wLjc5LDIuNC0xLjk4LDIuODJsLTguODIsNC4xNEwzNCwzM1YxNUwzMy4yLDQuMTVsOC44Miw0LjE0IEM0My4yMSw4LjcxLDQ0LDkuODQsNDQsMTEuMTF6Ii8+PHBhdGggZmlsbD0iIzAyNzdiZCIgZD0iTTksMzMuODk2TDM0LDE1VjUuMzUzYzAtMS4xOTgtMS40ODItMS43NTgtMi4yNzUtMC44Nkw0LjY1OCwyOS4yMzkgYy0wLjksMC44My0wLjg0OSwyLjI2NywwLjEwNywzLjAzMmMwLDAsMS4zMjQsMS4yMzIsMS44MDMsMS41NzRDNy4zMDQsMzQuMzcsOC4yNzEsMzQuNDMsOSwzMy44OTZ6Ii8+PHBhdGggZmlsbD0iIzAyODhkMSIgZD0iTTksMTQuMTA0TDM0LDMzdjkuNjQ3YzAsMS4xOTgtMS40ODIsMS43NTgtMi4yNzUsMC44Nkw0LjY1OCwxOC43NjEgYy0wLjktMC44My0wLjg0OS0yLjI2NywwLjEwNy0zLjAzMmMwLDAsMS4zMjQtMS4yMzIsMS44MDMtMS41NzRDNy4zMDQsMTMuNjMsOC4yNzEsMTMuNTcsOSwxNC4xMDR6Ii8+PC9zdmc+" />
+    <a href="https://marketplace.visualstudio.com/items?itemName=KristhDev.kristhdev-pikachu-theme-vscode" target="_blank">
+        <img alt="Install from VS Code Marketplace" src="https://img.shields.io/badge/vscode-25292E?style=for-the-badge&label=%20&logoColor=BCC3CD&labelColor=49505A&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSIxNDRweCIgaGVpZ2h0PSIxNDRweCI+PHBhdGggZmlsbD0iIzI5YjZmNiIgZD0iTTQ0LDExLjExdjI1Ljc4YzAsMS4yNy0wLjc5LDIuNC0xLjk4LDIuODJsLTguODIsNC4xNEwzNCwzM1YxNUwzMy4yLDQuMTVsOC44Miw0LjE0IEM0My4yMSw4LjcxLDQ0LDkuODQsNDQsMTEuMTF6Ii8+PHBhdGggZmlsbD0iIzAyNzdiZCIgZD0iTTksMzMuODk2TDM0LDE1VjUuMzUzYzAtMS4xOTgtMS40ODItMS43NTgtMi4yNzUtMC44Nkw0LjY1OCwyOS4yMzkgYy0wLjksMC44My0wLjg0OSwyLjI2NywwLjEwNywzLjAzMmMwLDAsMS4zMjQsMS4yMzIsMS44MDMsMS41NzRDNy4zMDQsMzQuMzcsOC4yNzEsMzQuNDMsOSwzMy44OTZ6Ii8+PHBhdGggZmlsbD0iIzAyODhkMSIgZD0iTTksMTQuMTA0TDM0LDMzdjkuNjQ3YzAsMS4xOTgtMS40ODIsMS43NTgtMi4yNzUsMC44Nkw0LjY1OCwxOC43NjEgYy0wLjktMC44My0wLjg0OS0yLjI2NywwLjEwNy0zLjAzMmMwLDAsMS4zMjQtMS4yMzIsMS44MDMtMS41NzRDNy4zMDQsMTMuNjMsOC4yNzEsMTMuNTcsOSwxNC4xMDR6Ii8+PC9zdmc+">
     </a>
-    <a aria-label="Install from Open VSX" href="https://open-vsx.org/extension/KristhDev/kristhdev-pikachu-theme-vscode" target="_blank">
-        <img alt="Install from Open VSX" src="https://img.shields.io/badge/vscode-open%20vsx-25292E?style=for-the-badge&label=%20&logoColor=BCC3CD&labelColor=49505A&logo=Eclipse%20IDE" />
+    <a href="https://open-vsx.org/extension/KristhDev/kristhdev-pikachu-theme-vscode" target="_blank">
+        <img alt="Install from Open VSX" src="https://img.shields.io/badge/vscode-open%20vsx-25292E?style=for-the-badge&label=%20&logoColor=BCC3CD&labelColor=49505A&logo=Eclipse%20IDE">
     </a>
 </p>
-</h1>
 
 A Visual Studio Code theme inspired by the iconic color palette of Pikachu, the beloved and recognizable mascot of the Pokémon franchise. This theme combines vibrant yellow tones to create a unique and energizing visual experience for developers.
 
@@ -27,39 +25,39 @@ Originally, this theme was published by [milab](https://github.com/mIaborde) a f
 
 <details>
     <summary>HTML</summary>
-    <img src="https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/html.png">
+    <img src="screenshots/html.png" style="border-radius: 0.5rem">
 </details>
 
 <details>
     <summary>CSS</summary>
-    <img src="https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/css.png">
+    <img src="screenshots/css.png" style="border-radius: 0.5rem">
 </details>
 
 <details>
     <summary>JavaScript</summary>
-    <img src="https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/javascript.png">
+    <img src="screenshots/javascript.png" style="border-radius: 0.5rem">
 </details>
 
 <details>
     <summary>TypeScript</summary>
-    <img src="https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/typescript.png">
+    <img src="screenshots/typescript.png" style="border-radius: 0.5rem">
 </details>
 
 <details>
     <summary>PHP</summary>
-    <img src="https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/php.png">
+    <img src="screenshots/php.png" style="border-radius: 0.5rem">
 </details>
 
 <details>
     <summary>Python</summary>
-    <img src="https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/python.png">
+    <img src="screenshots/python.png" style="border-radius: 0.5rem">
 </details>
 
 ## 📦 Install
 
 1. Open the extensions sidebar on Visual Studio Code
-2. Search for `Pikachu Theme` and install it.
-3. Go to Color Themes settings and choose `Pikachu Theme` as the color theme or `CMD + Shift + P` and enter Command `> color theme` and choose `Pikachu Theme`.
+2. Search for `Pikachu Theme VsCode` and install it.
+3. Go to Color Themes settings and choose `Pikachu` as the color theme or `CMD + Shift + P` and enter Command `> color theme` and choose `Pikachu`.
 
 ## 🎉 Enjoy
 
