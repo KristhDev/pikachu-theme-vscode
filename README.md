@@ -9,12 +9,13 @@ Originally, this theme was published by [milab](https://github.com/mIaborde) a f
 
 ## 📸 Captures
 
-![capture html](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/captures/html.png)
-![capture css](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/captures/css.png)
-![capture javascript](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/captures/javascript.png)
-![capture typescript](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/captures/typescript.png)
-![capture php](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/captures/php.png)
-![capture python](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/captures/python.png)
+| HTML | CSS |
+| --- | --- |
+| ![](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/html.png) | ![](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/css.png) |
+| JavaScript | TypeScript |
+| ![](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/javascript.png) | ![](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/typescript.png) |
+| PHP | Python |
+| ![](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/php.png) | ![](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/python.png) |
 
 ## 📦 Install
 
