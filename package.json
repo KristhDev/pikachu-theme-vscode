@@ -16,7 +16,7 @@
     "vscode"
   ],
   "license": "MIT",
-  "icon": "./assets/icon.png",
+  "icon": "assets/icon.png",
   "repository": "https://github.com/KristhDev/pikachu-theme-vscode",
   "version": "1.0.0",
   "engines": {
