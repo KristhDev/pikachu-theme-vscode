@@ -25,32 +25,32 @@ Originally, this theme was published by [milab](https://github.com/mIaborde) a f
 
 <details>
     <summary>HTML</summary>
-    <img src="screenshots/html.png" style="border-radius: 0.5rem">
+    <img src="screenshots/html.png">
 </details>
 
 <details>
     <summary>CSS</summary>
-    <img src="screenshots/css.png" style="border-radius: 0.5rem">
+    <img src="screenshots/css.png">
 </details>
 
 <details>
     <summary>JavaScript</summary>
-    <img src="screenshots/javascript.png" style="border-radius: 0.5rem">
+    <img src="screenshots/javascript.png">
 </details>
 
 <details>
     <summary>TypeScript</summary>
-    <img src="screenshots/typescript.png" style="border-radius: 0.5rem">
+    <img src="screenshots/typescript.png">
 </details>
 
 <details>
     <summary>PHP</summary>
-    <img src="screenshots/php.png" style="border-radius: 0.5rem">
+    <img src="screenshots/php.png">
 </details>
 
 <details>
     <summary>Python</summary>
-    <img src="screenshots/python.png" style="border-radius: 0.5rem">
+    <img src="screenshots/python.png">
 </details>
 
 ## 📦 Install
