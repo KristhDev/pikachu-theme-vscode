@@ -1,8 +1,22 @@
-<h3 align="center">
+<h1 align="center">
     <img src="https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/assets/icon.png" width="100" alt="Logo">
     <br>
     Pikachu Theme for <a href="https://code.visualstudio.com">VSCode</a>
-</h3>
+    <br>
+    <br>
+
+<p align="center">
+    <a aria-label="Latest release" href="https://github.com/KristhDev/pikachu-theme-vscode/releases" target="_blank">
+        <img alt="Latest release" src="https://img.shields.io/github/package-json/v/KristhDev/pikachu-theme-vscode?style=flat-square&color=0366D6&labelColor=49505A" />
+    </a>
+    <a aria-label="Install from VS Code Marketplace" href="https://marketplace.visualstudio.com/items?itemName=kristhdev.pikachu-theme-vscode" target="_blank">
+        <img alt="Install from VS Code Marketplace" src="https://img.shields.io/badge/vscode-marketplace-25292E?style=flat-square&label=%20&logoColor=BCC3CD&labelColor=49505A&logo=Visual%20Studio%20Code" />
+    </a>
+    <a aria-label="Install from Open VSX" href="https://open-vsx.org/extension/kristhdev/pikachu-theme-vscode" target="_blank">
+        <img alt="Install from Open VSX" src="https://img.shields.io/badge/vscode-open%20vsx-25292E?style=flat-square&label=%20&logoColor=BCC3CD&labelColor=49505A&logo=Eclipse%20IDE" />
+    </a>
+</p>
+</h1>
 
 A Visual Studio Code theme inspired by the iconic color palette of Pikachu, the beloved and recognizable mascot of the Pokémon franchise. This theme combines vibrant yellow tones to create a unique and energizing visual experience for developers.
 
