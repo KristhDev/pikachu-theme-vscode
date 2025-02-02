@@ -1,0 +1,24 @@
+{
+  "name": "pikachu-theme-vscode",
+  "displayName": "Pikachu Theme",
+  "publisher": "KristhDev",
+  "description": "A dark vscode theme with yellow accents.",
+  "icon": "icon.png",
+  "repository": "https://github.com/KristhDev/pikachu-theme-vscode",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pikachu Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pikachu-color-theme.json"
+      }
+    ]
+  }
+}
