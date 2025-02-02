@@ -7,14 +7,37 @@ Designed for those seeking a more personalized and nostalgic programming environ
 
 Originally, this theme was published by [milab](https://github.com/mIaborde) a few years ago, though I’m unsure why the project was removed. I’ve always been very fond of this theme, so I decided to republish it so other users can enjoy it in Visual Studio Code. Additionally, I’m committed to maintaining it and improving it over time, always respecting the original work and giving proper credit to its author.
 
-## 📸 Captures
+## 📸 Previews
 
-![capture html](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/html.png)
-![capture css](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/css.png)
-![capture javascript](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/javascript.png)
-![capture typescript](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/typescript.png)
-![capture php](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/php.png)
-![capture python](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/python.png)
+<details>
+    <summary>HTML</summary>
+    <img src="https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/html.png">
+</details>
+
+<details>
+    <summary>CSS</summary>
+    <img src="https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/css.png">
+</details>
+
+<details>
+    <summary>JavaScript</summary>
+    <img src="https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/javascript.png">
+</details>
+
+<details>
+    <summary>TypeScript</summary>
+    <img src="https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/typescript.png">
+</details>
+
+<details>
+    <summary>PHP</summary>
+    <img src="https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/php.png">
+</details>
+
+<details>
+    <summary>Python</summary>
+    <img src="https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshots/python.png">
+</details>
 
 ## 📦 Install
 
