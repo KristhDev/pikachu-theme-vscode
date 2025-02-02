@@ -8,6 +8,14 @@
   },
   "publisher": "KristhDev",
   "description": "A Visual Studio Code theme inspired by the iconic color palette of Pikachu, the beloved and recognizable mascot of the Pokémon franchise. This theme combines vibrant yellow tones to create a unique and energizing visual experience for developers.",
+  "keywords": [
+    "theme",
+    "pikachu",
+    "pokemon",
+    "yellow",
+    "vscode"
+  ],
+  "license": "MIT",
   "icon": "icon.png",
   "repository": "https://github.com/KristhDev/pikachu-theme-vscode",
   "version": "1.0.0",
