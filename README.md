@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/assets/icon.png" width="100" alt="Logo">
+    <img src="https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/assets/icon.png" width="128" alt="Logo">
     <br>
     Pikachu Theme for <a href="https://code.visualstudio.com">VSCode</a>
     <br>
