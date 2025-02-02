@@ -3,7 +3,6 @@
     <br>
     Pikachu Theme for <a href="https://code.visualstudio.com">VSCode</a>
     <br>
-    <br>
 
 <p align="center">
     <a aria-label="Latest release" href="https://github.com/KristhDev/pikachu-theme-vscode/releases" target="_blank">
