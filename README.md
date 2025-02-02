@@ -7,9 +7,14 @@ Designed for those seeking a more personalized and nostalgic programming environ
 
 Originally, this theme was published by [milab](https://github.com/mIaborde) a few years ago, though I’m unsure why the project was removed. I’ve always been very fond of this theme, so I decided to republish it so other users can enjoy it in Visual Studio Code. Additionally, I’m committed to maintaining it and improving it over time, always respecting the original work and giving proper credit to its author.
 
-## 📸 Capture
+## 📸 Captures
 
-![capture](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/screenshot.png)
+![capture html](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/captures/html.png)
+![capture css](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/captures/css.png)
+![capture javascript](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/captures/javascript.png)
+![capture typescript](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/captures/typescript.png)
+![capture php](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/captures/php.png)
+![capture python](https://raw.githubusercontent.com/KristhDev/pikachu-theme-vscode/main/captures/python.png)
 
 ## 📦 Install
 
