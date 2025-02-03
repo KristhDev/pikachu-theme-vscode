@@ -28,6 +28,10 @@
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_contrast-colors
 		"contrastActiveBorder": "#FFFFFF00",
 		"contrastBorder": "#FFFFFF00",
+		// Command Center.
+		// https://code.visualstudio.com/api/references/theme-color#command-center-colors
+		"commandCenter.border": "#00000000",
+		"commandCenter.activeBorder": "#00000000",
 		// Base Colors.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_base-colors
 		// Foreground color for description text providing additional information, for example for a label.
@@ -36,7 +40,7 @@
 		// Dropdown.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_dropdown-control
 		"dropdown.background": "#131b24",
-		"dropdown.border": "#4f6880",
+		"dropdown.border": "#00000000",
 		// ——— Editor ———
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_editor-colors
 		"editor.background": "#131b24", // Editor background color.
@@ -108,7 +112,7 @@
 		"tab.unfocusedInactiveForeground": "#4f6880",
 		"tab.activeModifiedBorder": "#FAD000",
 		"tab.inactiveModifiedBorder": "#4f6880",
-		"tab.border": "#131b24",
+		"tab.border": "#0d131a",
 		// The Editor widget is shown in front of the editor content. Examples are the Find/Replace dialog, the suggestion widget, and the editor hover.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_editor-widget-colors
 		"editorWidget.background": "#0d131a",
@@ -140,12 +144,12 @@
 		"extensionButton.prominentHoverBackground": "#FAD000b9",
 		"extensionBadge.remoteBackground": "#FAD000",
 		"extensionBadge.remoteForeground": "#0d131a",
-		"focusBorder": "#131b24",
+		"focusBorder": "#00000000",
 		"foreground": "#dfeeff",
 		// Input Control.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_input-control
-		"input.background": "#0d131a",
-		"input.border": "#131b24",
+		"input.background": "#131b24",
+		"input.border": "#00000000",
 		"input.foreground": "#FAD000",
 		"input.placeholderForeground": "#4f6880",
 		"inputOption.activeBorder": "#FAD000",
@@ -242,7 +246,7 @@
 		"textSeparator.foreground": "#131b24",
 		// Title bar.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_title-bar-colors
-		"titleBar.activeBackground": "#131b24",
+		"titleBar.activeBackground": "#0d131a",
 		"titleBar.activeForeground": "#dfeeff",
 		"titleBar.inactiveBackground": "#131b24",
 		"titleBar.inactiveForeground": "#4f6880",
