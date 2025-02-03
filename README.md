@@ -5,13 +5,13 @@
 
 <p align="center">
     <a href="https://github.com/KristhDev/pikachu-theme-vscode/releases" target="_blank">
-        <img alt="Latest release" src="https://img.shields.io/github/v/release/KristhDev/pikachu-theme-vscode?style=for-the-badge&logo=github&logoColor=white&colorA=0d131a&colorB=FAD000">
+        <img alt="Latest release" src="https://img.shields.io/github/v/release/KristhDev/pikachu-theme-vscode?style=for-the-badge&logo=github&logoColor=white&colorA=131b24&colorB=FAD000">
     </a>
     <a href="https://marketplace.visualstudio.com/items?itemName=KristhDev.kristhdev-pikachu-theme-vscode" target="_blank">
-        <img alt="Install from VS Code Marketplace" src="https://img.shields.io/badge/vscode-0d131a?style=for-the-badge&label=%20&logoColor=BCC3CD&labelColor=191935&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSIxNDRweCIgaGVpZ2h0PSIxNDRweCI+PHBhdGggZmlsbD0iIzI5YjZmNiIgZD0iTTQ0LDExLjExdjI1Ljc4YzAsMS4yNy0wLjc5LDIuNC0xLjk4LDIuODJsLTguODIsNC4xNEwzNCwzM1YxNUwzMy4yLDQuMTVsOC44Miw0LjE0IEM0My4yMSw4LjcxLDQ0LDkuODQsNDQsMTEuMTF6Ii8+PHBhdGggZmlsbD0iIzAyNzdiZCIgZD0iTTksMzMuODk2TDM0LDE1VjUuMzUzYzAtMS4xOTgtMS40ODItMS43NTgtMi4yNzUtMC44Nkw0LjY1OCwyOS4yMzkgYy0wLjksMC44My0wLjg0OSwyLjI2NywwLjEwNywzLjAzMmMwLDAsMS4zMjQsMS4yMzIsMS44MDMsMS41NzRDNy4zMDQsMzQuMzcsOC4yNzEsMzQuNDMsOSwzMy44OTZ6Ii8+PHBhdGggZmlsbD0iIzAyODhkMSIgZD0iTTksMTQuMTA0TDM0LDMzdjkuNjQ3YzAsMS4xOTgtMS40ODIsMS43NTgtMi4yNzUsMC44Nkw0LjY1OCwxOC43NjEgYy0wLjktMC44My0wLjg0OS0yLjI2NywwLjEwNy0zLjAzMmMwLDAsMS4zMjQtMS4yMzIsMS44MDMtMS41NzRDNy4zMDQsMTMuNjMsOC4yNzEsMTMuNTcsOSwxNC4xMDR6Ii8+PC9zdmc+">
+        <img alt="Install from VS Code Marketplace" src="https://img.shields.io/badge/vscode-131b24?style=for-the-badge&label=%20&logoColor=BCC3CD&labelColor=0d131a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSIxNDRweCIgaGVpZ2h0PSIxNDRweCI+PHBhdGggZmlsbD0iIzI5YjZmNiIgZD0iTTQ0LDExLjExdjI1Ljc4YzAsMS4yNy0wLjc5LDIuNC0xLjk4LDIuODJsLTguODIsNC4xNEwzNCwzM1YxNUwzMy4yLDQuMTVsOC44Miw0LjE0IEM0My4yMSw4LjcxLDQ0LDkuODQsNDQsMTEuMTF6Ii8+PHBhdGggZmlsbD0iIzAyNzdiZCIgZD0iTTksMzMuODk2TDM0LDE1VjUuMzUzYzAtMS4xOTgtMS40ODItMS43NTgtMi4yNzUtMC44Nkw0LjY1OCwyOS4yMzkgYy0wLjksMC44My0wLjg0OSwyLjI2NywwLjEwNywzLjAzMmMwLDAsMS4zMjQsMS4yMzIsMS44MDMsMS41NzRDNy4zMDQsMzQuMzcsOC4yNzEsMzQuNDMsOSwzMy44OTZ6Ii8+PHBhdGggZmlsbD0iIzAyODhkMSIgZD0iTTksMTQuMTA0TDM0LDMzdjkuNjQ3YzAsMS4xOTgtMS40ODIsMS43NTgtMi4yNzUsMC44Nkw0LjY1OCwxOC43NjEgYy0wLjktMC44My0wLjg0OS0yLjI2NywwLjEwNy0zLjAzMmMwLDAsMS4zMjQtMS4yMzIsMS44MDMtMS41NzRDNy4zMDQsMTMuNjMsOC4yNzEsMTMuNTcsOSwxNC4xMDR6Ii8+PC9zdmc+">
     </a>
     <a href="https://open-vsx.org/extension/KristhDev/kristhdev-pikachu-theme-vscode" target="_blank">
-        <img alt="Install from Open VSX" src="https://img.shields.io/badge/vscode-open%20vsx-0d131a?style=for-the-badge&label=%20&logoColor=BCC3CD&labelColor=191935&logo=Eclipse%20IDE">
+        <img alt="Install from Open VSX" src="https://img.shields.io/badge/vscode-open%20vsx-131b24?style=for-the-badge&label=%20&logoColor=BCC3CD&labelColor=0d131a&logo=Eclipse%20IDE">
     </a>
 </p>
 
@@ -69,6 +69,6 @@ Thanks to [milab](https://github.com/mIaborde) for the original work.
 
 <p align="center">
     <a href="https://github.com/KristhDev/pikachu-theme-vscode/blob/main/LICENSE.md">
-        <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=0d131a&colorB=FAD000"/>
+        <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=131b24&colorB=FAD000"/>
     </a>
 </p>
