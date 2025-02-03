@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - New light color scheme.
 
-## [1.0.1] - 02/02/2025
+## [1.0.1] - 03/02/2025
 
 ### Added
 
